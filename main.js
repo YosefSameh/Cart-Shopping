@@ -66,7 +66,7 @@ let products = [
     {
         id:2,
         titel:"samsung s22 ultra",
-        img:"/img/samsung-2.jpg",
+        img:"img/samsung-2.jpg",
         price:7000
     },
     {
