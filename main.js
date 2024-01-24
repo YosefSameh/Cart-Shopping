@@ -72,25 +72,25 @@ let products = [
     {
         id:3,
         titel:"samsung s21 ultra",
-        img:"/img/samsung-3.jpg",
+        img:"img/samsung-3.jpg",
         price:8000
     },
     {
         id:4,
         titel:"samsung s20 ultra",
-        img:"/img/samsung-4.jpg",
+        img:"img/samsung-4.jpg",
         price:5000
     },
     {
         id:5,
         titel:"samsung s20 ",
-        img:"/img/samsung-2.jpg",
+        img:"img/samsung-2.jpg",
         price:3000
     },
     {
         id:6,
         titel:"samsung s21",
-        img:"/img/samsung-3.jpg",
+        img:"img/samsung-3.jpg",
         price:2000
     }
 ]
